@@ -1,4 +1,4 @@
-module.exports = function reverse (n) {
+module.exports = function reverse (num) {
     num = num.toString();
     let i = num.length - 1;
     let result = '';
